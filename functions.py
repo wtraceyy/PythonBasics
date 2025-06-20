@@ -3,7 +3,7 @@ x = max(54 ,78,45,77,67)
 print("the maximum number is",x)
 
 y = min(22 , 89, 56, 35, 76)
-print("the manimum number is",y)
+print("the minimum number is",y)
 
 z = pow(2, 3)
 print("the power of 2 is",z)
@@ -37,14 +37,14 @@ def student(fullname,course,gender):
 
 student("Tracey Wanjiku","MIT","Female")
 student("Tracey Wanjiku","MIT","Female")
-student("Tracey wanjiku","MIT","Female")
-student("Tracey wanjiku","MIT","Female")
+student("Tracey Wanjiku","MIT","Female")
+student("Tracey Wanjiku","MIT","Female")
 
 
 print()
 
 
-#a python program that dispalys details of 5 employees at fintech using parameters and arguments
+#a python program that displays details of 5 employees at fintech using parameters and arguments
 #fullname,email,age,position,salary,marriage status
 
 def career(fullname,course,email,age,position,salary,marriagestatus):
